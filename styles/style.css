@@ -16,6 +16,8 @@ body{
 
 }
 
+
+/* flip card tutorial https://www.codeguage.com/blog/flip-card-css */
 .flip-card {
   background-color: transparent;
   width: 20em;
